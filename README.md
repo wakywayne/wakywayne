@@ -45,7 +45,7 @@ Feel free to explore my projects and connect with me! 🚀
 - [LinkedIn](https://www.linkedin.com/in/waynecarl-barker-50b502284/)
 - [Portfolio Site](https://wakywayne-blog.vercel.app/)
 
-Feel free to explore my projects and get in touch. Let's code and market for a brighter digital future! 🌐💼
+Feel free to explore my projects and get in touch. Let's code for a brighter digital future! 🌐💼
 
 
 <!--
