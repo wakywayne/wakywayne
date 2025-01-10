@@ -9,16 +9,6 @@
 
 ### 🌟 Projects:
 
-#### Wrestle Dynamic Website (2019)
-- [View Project](https://wrestledynamic.com)
-- **Tech Stack:** HTML, CSS, Bootstrap
-- **Description:** Designed and developed a static HTML and CSS website for Wrestle Dynamic, a wrestling club. Created landing pages for marketing campaigns using Facebook and Google Ads. Implemented Google Analytics and Facebook Pixel for campaign tracking.
-
-#### Wrestling Reimagined Tournament Software (2019-2023)
-- [View Project](https://wrestlingtournaments.com)
-- **Tech Stack:** MySQL, Node.js (Express), Typescript, React, Bootstrap
-- **Description:** Collaborated effectively within a development team to construct "Rapid Brackets" for "Wrestling Reimagined". Implemented a fully type-safe application, ensuring code integrity and reliability on both the server and the React front-end. Created end-to-end solutions for wrestling tournaments, including user authentication, email verification, and automated email campaigns powered by Twilio. Managed cryptography and used JSON Web Tokens (JWT) for secure user authentication. Engineered an interactive scoreboard with responsive design, employed react-hook-form and Zod for form validation, and constructed a versatile table using react-table for seamless data manipulation.
-
 #### Personal Travel Website (2021)
 - [View Project](https://wayneswildworld.com)
 - **Tech Stack:** HTML, CSS, Bootstrap, jQuery
