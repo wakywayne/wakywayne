@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm [WayneCarl Barker](https://wakywayne-blog.vercel.app/)!
 
-👨‍💻 I'm a passionate software developer and marketer with a keen interest in creating innovative solutions.
+👨‍💻 I'm a passionate developer with certifications in both cyber security and cloud development. I am seriously passionate about creating innovative solutions that improve efficency and solve problems, while always holding security as the highest priority.
 
 🚀 Here are some highlights of my journey:
 
-- 💡 **Skills:** Front-end(_NextJS, React, tailwind, bootstrap, css, html_), Back-end(_typescript, node express_), Databases(_MySQL, MongoDB_), GraphQL, SEO(_sitemaps, meta data, pwa's_), Marketing Campaigns(_google ads / analytics **&** facebook ads / facebook pixel_).
+- 💡 **Skills:** Front-end(_NextJS, React, tailwind, bootstrap, css, html_), Back-end(_typescript, node express, GraphQL_), Databases(_MySQL, MongoDB_), SEO(_sitemaps, schema markup, meta data, pwa's_), Marketing Campaigns(_google ads / analytics **&** facebook ads / facebook pixel_).
 - 🌐 **Portfolio:** [Porfolio Site](https://wakywayne-blog.vercel.app/)
 
 ### 🌟 Projects:
