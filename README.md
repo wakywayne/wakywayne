@@ -2,6 +2,11 @@
 
 👨‍💻 I'm a passionate developer with certifications in both cyber security and cloud development. I am seriously passionate about creating innovative solutions that improve efficency and solve problems, while always holding security as the highest priority.
 
+Here are some of my open source contributions _if you use any of them consider dontating_ 😊 
+<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+[_Obsidian Plugin_ note-to-anki](https://github.com/wakywayne/note-to-anki)
+[_Obsidian Plugin_ obsidian-hotstrings](https://github.com/wakywayne/obsidian-hotstrings)
+
 🚀 Here are some highlights of my journey:
 
 - 💡 **Skills:** Front-end(_NextJS, React, tailwind, bootstrap, css, html_), Back-end(_typescript, node express, GraphQL_), Databases(_MySQL, MongoDB_), SEO(_sitemaps, schema markup, meta data, pwa's_), Marketing Campaigns(_google ads / analytics **&** facebook ads / facebook pixel_).
